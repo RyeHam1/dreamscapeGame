@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/thoma/OneDrive/Documents/Frontier Game/dreamscapeGame/Dreamscape/Content/PushableObject/BP_Cube.uasset",
+				"C:/Users/thoma/OneDrive/Documents/Frontier Game/dreamscapeGame/Dreamscape/Content/Maps/L_Start.umap",
+				"C:/Users/thoma/OneDrive/Documents/Frontier Game/dreamscapeGame/Dreamscape/Content/Player/BP_Player.uasset",
 				"E:/GitHub/dreamscapeGame/Dreamscape/Content/M_Fantasy.uasset",
 				"E:/GitHub/dreamscapeGame/Dreamscape/Content/Maps/L_Start.umap",
 				"C:/Users/ryanw/Documents/Unreal Projects/Dreamscape/Content/Maps/L_Start.umap",
