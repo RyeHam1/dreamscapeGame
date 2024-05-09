@@ -2690,3 +2690,1132 @@ Script Stack (0 frames) :
 [2024.05.09-10.17.11:382][543]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.063
 [2024.05.09-10.18.32:770][290]LogViewport: Scene viewport resized to 1014x582, mode Windowed.
 [2024.05.09-10.18.33:736][290]LogViewport: Scene viewport resized to 1009x1256, mode Windowed.
+[2024.05.09-10.21.37:156][675]LogViewport: Scene viewport resized to 1010x1256, mode Windowed.
+[2024.05.09-10.21.37:323][675]LogViewport: Scene viewport resized to 1070x1256, mode Windowed.
+[2024.05.09-10.21.37:506][675]LogViewport: Scene viewport resized to 1072x1256, mode Windowed.
+[2024.05.09-10.21.37:607][675]LogViewport: Scene viewport resized to 1110x1256, mode Windowed.
+[2024.05.09-10.21.37:723][675]LogViewport: Scene viewport resized to 1338x1256, mode Windowed.
+[2024.05.09-10.21.37:824][675]LogViewport: Scene viewport resized to 1369x1256, mode Windowed.
+[2024.05.09-10.21.37:941][675]LogViewport: Scene viewport resized to 1362x1256, mode Windowed.
+[2024.05.09-10.21.38:038][675]LogViewport: Scene viewport resized to 1308x1256, mode Windowed.
+[2024.05.09-10.21.38:123][675]LogViewport: Scene viewport resized to 1304x1256, mode Windowed.
+[2024.05.09-10.21.38:224][675]LogViewport: Scene viewport resized to 1277x1256, mode Windowed.
+[2024.05.09-10.21.38:324][675]LogViewport: Scene viewport resized to 1255x1256, mode Windowed.
+[2024.05.09-10.21.38:490][675]LogViewport: Scene viewport resized to 1258x1256, mode Windowed.
+[2024.05.09-10.21.49:497][571]LogViewport: Scene viewport resized to 2038x1262, mode Windowed.
+[2024.05.09-10.22.37:277][798]BlueprintLog: New page: Compile Options_WB1
+[2024.05.09-10.22.37:307][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.05.09-10.27.59:071][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.05.09-10.27.59:075][669]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UI/MainMenu_L' took 0.061
+[2024.05.09-10.31.50:532][988]LogInterchangeEngine: [Pending] Importing
+[2024.05.09-10.31.50:532][988]LogInterchangeEngine: Display: Interchange start importing source [D:/2201894/um/Main Menubutton.png]
+[2024.05.09-10.31.50:542][989]LogTexture: Display: Building textures: /Game/UI/Images/MainMenu/button.button (TFO_AutoDXT, 84x84 x1x1x1) (Required Memory Estimate: 1.175049 MB), EncodeSpeed: Fast
+[2024.05.09-10.31.50:563][989]LogInterchangeEngine: [Success] Import Done
+[2024.05.09-10.31.50:568][989]LogInterchangeEngine: [Success] Import Done
+[2024.05.09-10.35.18:877][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.05.09-10.35.25:382][144]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.09-10.35.26:081][216]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/Images/MainMenu/button.button
+[2024.05.09-10.35.26:213][216]LogViewport: Scene viewport resized to 1905x1263, mode Windowed.
+[2024.05.09-10.35.26:304][217]LogViewport: Scene viewport resized to 1905x1258, mode Windowed.
+[2024.05.09-10.35.31:629][827]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-10.35.31:629][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-10.35.31:637][827]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-10.35.31:637][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-10.35.33:037][988]BlueprintLog: New page: Compile MainMenu_WB
+[2024.05.09-10.35.33:068][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.05.09-10.35.40:553][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.05.09-10.35.42:564][801]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.09-10.35.42:598][801]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/UI/Images/MainMenu/button.button
+	Asset Type: Texture2D
+[2024.05.09-10.35.42:906][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.05.09-10.35.42:929][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.05.09-10.35.42:951][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.05.09-10.35.50:973][732]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.05.09-10.37.59:159][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.05.09-10.37.59:164][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_L" FILE="D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/Autosaves/Game/UI/MainMenu_L_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.05.09-10.37.59:168][977]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/MainMenu_L_Auto3
+[2024.05.09-10.37.59:169][977]LogSavePackage: Moving 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/MainMenu_L_Auto36598B8D04821667D86058DA1EF6CF466.tmp' to 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/Autosaves/Game/UI/MainMenu_L_Auto3.umap'
+[2024.05.09-10.37.59:175][977]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UI/MainMenu_L' took 0.069
+[2024.05.09-10.37.59:175][977]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.069
+[2024.05.09-10.37.59:175][977]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WB/MainMenu_WB] ([2] browsable assets)...
+[2024.05.09-10.37.59:179][977]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WB/MainMenu_WB.MainMenu_WB]
+[2024.05.09-10.37.59:179][977]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB/MainMenu_WB]
+[2024.05.09-10.37.59:179][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB/MainMenu_WB" FILE="D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/Autosaves/Game/UI/WB/MainMenu_WB_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.05.09-10.37.59:186][977]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WB/MainMenu_WB_Auto3
+[2024.05.09-10.37.59:186][977]LogSavePackage: Moving 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/MainMenu_WB_Auto35FFDBAAD4200334B1B3317ACBEDEB8A1.tmp' to 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/Autosaves/Game/UI/WB/MainMenu_WB_Auto3.uasset'
+[2024.05.09-10.39.32:790][727]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.05.09-10.39.32:798][727]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.05.09-10.39.32:804][727]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.05.09-10.39.32:815][728]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.05.09-10.39.45:307][207]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> InGame_WB
+[2024.05.09-10.39.45:313][207]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.05.09-10.39.47:700][481]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WB/InGame_WB.InGame_WB
+[2024.05.09-10.39.47:700][481]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.09-10.39.47:700][481]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.09-10.39.47:711][481]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.09-10.39.47:711][481]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.09-10.39.55:266][362]BlueprintLog: New page: Compile InGame_WB
+[2024.05.09-10.39.55:307][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.05.09-10.44.30:887][898]BlueprintLog: New page: Compile InGame_WB
+[2024.05.09-10.44.30:927][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.05.09-10.46.10:493][ 93]LogEditorTransaction: Undo Remove Widget
+[2024.05.09-10.46.10:857][ 97]LogEditorTransaction: Undo Remove Widget
+[2024.05.09-10.46.11:938][188]LogEditorTransaction: Undo Add Widget
+[2024.05.09-10.46.12:340][223]LogEditorTransaction: Undo Wrap Widgets
+[2024.05.09-10.47.27:276][693]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.05.09-10.47.27:864][702]LogEditorTransaction: Undo Wrap Widgets
+[2024.05.09-10.48.03:677][507]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.05.09-10.48.03:689][507]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.05.09-10.48.03:704][507]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.05.09-10.48.03:725][508]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.05.09-10.48.09:485][ 95]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Tets
+[2024.05.09-10.48.09:492][ 95]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.05.09-10.48.11:109][253]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WB/Tets.Tets
+[2024.05.09-10.48.11:109][253]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.09-10.48.11:109][253]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.09-10.48.11:126][253]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.09-10.48.11:126][253]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.09-10.50.28:596][951]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.09-10.51.28:454][605]BlueprintLog: New page: Compile Tets
+[2024.05.09-10.51.28:500][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.05.09-10.52.48:215][741]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-10.52.48:215][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-10.52.48:277][741]LogViewport: Scene viewport resized to 2038x1293, mode Windowed.
+[2024.05.09-10.52.48:328][742]LogViewport: Scene viewport resized to 2038x1275, mode Windowed.
+[2024.05.09-10.52.48:363][743]LogViewport: Scene viewport resized to 2038x1262, mode Windowed.
+[2024.05.09-10.53.15:401][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.05.09-10.53.15:405][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_L" FILE="D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/Autosaves/Game/UI/MainMenu_L_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.05.09-10.53.15:409][897]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/MainMenu_L_Auto3
+[2024.05.09-10.53.15:410][897]LogSavePackage: Moving 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/MainMenu_L_Auto3AAA0A6D24B71EE107BB909956403D385.tmp' to 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/Autosaves/Game/UI/MainMenu_L_Auto3.umap'
+[2024.05.09-10.53.15:415][897]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UI/MainMenu_L' took 0.059
+[2024.05.09-10.53.15:415][897]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.059
+[2024.05.09-10.53.15:415][897]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/WB/MainMenu_WB] ([2] browsable assets)...
+[2024.05.09-10.53.15:415][897]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB/MainMenu_WB]
+[2024.05.09-10.53.15:415][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB/MainMenu_WB" FILE="D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/Autosaves/Game/UI/WB/MainMenu_WB_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.05.09-10.53.15:421][897]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WB/MainMenu_WB_Auto3
+[2024.05.09-10.53.15:422][897]LogSavePackage: Moving 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/MainMenu_WB_Auto302927A224A0C0640EC9C1CA5CFEA1ED4.tmp' to 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/Autosaves/Game/UI/WB/MainMenu_WB_Auto3.uasset'
+[2024.05.09-10.54.28:288][606]LogContentBrowser: Attempting asset rename: Tets -> InGameP_wb
+[2024.05.09-10.54.28:312][606]LogMetaData: Removing '/Game/UI/WB/InGameP_wb.SKEL_InGameP_wb_C' ref from Metadata '/Game/UI/WB/Tets.PackageMetaData'
+[2024.05.09-10.54.28:313][606]LogMetaData: Removing '/Game/UI/WB/InGameP_wb.InGameP_wb_C' ref from Metadata '/Game/UI/WB/Tets.PackageMetaData'
+[2024.05.09-10.54.28:313][606]LogMetaData: Removing '/Game/UI/WB/InGameP_wb.InGameP_wb:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/WB/Tets.PackageMetaData'
+[2024.05.09-10.54.28:313][606]LogMetaData: Removing '/Game/UI/WB/InGameP_wb.InGameP_wb:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/WB/Tets.PackageMetaData'
+[2024.05.09-10.54.28:313][606]LogMetaData: Removing '/Game/UI/WB/InGameP_wb.InGameP_wb:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/WB/Tets.PackageMetaData'
+[2024.05.09-10.54.28:313][606]LogMetaData: Removing '/Game/UI/WB/InGameP_wb.SKEL_InGameP_wb_C:PreConstruct' ref from Metadata '/Game/UI/WB/Tets.PackageMetaData'
+[2024.05.09-10.54.28:313][606]LogMetaData: Removing '/Game/UI/WB/InGameP_wb.SKEL_InGameP_wb_C:Construct' ref from Metadata '/Game/UI/WB/Tets.PackageMetaData'
+[2024.05.09-10.54.28:313][606]LogMetaData: Removing '/Game/UI/WB/InGameP_wb.SKEL_InGameP_wb_C:Tick' ref from Metadata '/Game/UI/WB/Tets.PackageMetaData'
+[2024.05.09-10.54.28:314][606]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.09-10.54.28:383][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB/InGameP_wb" FILE="D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Content/UI/WB/InGameP_wb.uasset" SILENT=true
+[2024.05.09-10.54.28:395][606]LogSavePackage: Moving output files for package: /Game/UI/WB/InGameP_wb
+[2024.05.09-10.54.28:395][606]LogSavePackage: Moving 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/InGameP_wb1E32C87F407E5774CA0C269838EDBD7B.tmp' to 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Content/UI/WB/InGameP_wb.uasset'
+[2024.05.09-10.54.28:457][606]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 14.3 sec)
+[2024.05.09-10.54.28:519][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.05.09-10.54.28:543][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.05.09-10.54.28:565][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.05.09-10.54.28:571][606]AssetCheck: New page: Asset Save: InGameP_wb
+[2024.05.09-10.54.28:571][606]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB/InGameP_wb.InGameP_wb
+[2024.05.09-10.54.32:750][ 49]LogContentBrowser: Attempting asset rename: InGameP_wb -> InGameP_wb
+[2024.05.09-10.54.36:292][450]LogContentBrowser: Attempting asset rename: InGameP_wb -> InGameP_wb
+[2024.05.09-10.54.43:735][317]LogContentBrowser: Attempting asset rename: InGameP_wb -> InGameP_WB
+[2024.05.09-10.54.43:757][317]LogMetaData: Removing '/Game/UI/WB/RenameTmp.RenameTmp_C' ref from Metadata '/Game/UI/WB/InGameP_wb.PackageMetaData'
+[2024.05.09-10.54.43:757][317]LogMetaData: Removing '/Game/UI/WB/RenameTmp.SKEL_RenameTmp_C' ref from Metadata '/Game/UI/WB/InGameP_wb.PackageMetaData'
+[2024.05.09-10.54.43:757][317]LogMetaData: Removing '/Game/UI/WB/RenameTmp.SKEL_RenameTmp_C:PreConstruct' ref from Metadata '/Game/UI/WB/InGameP_wb.PackageMetaData'
+[2024.05.09-10.54.43:757][317]LogMetaData: Removing '/Game/UI/WB/RenameTmp.SKEL_RenameTmp_C:Construct' ref from Metadata '/Game/UI/WB/InGameP_wb.PackageMetaData'
+[2024.05.09-10.54.43:757][317]LogMetaData: Removing '/Game/UI/WB/RenameTmp.SKEL_RenameTmp_C:Tick' ref from Metadata '/Game/UI/WB/InGameP_wb.PackageMetaData'
+[2024.05.09-10.54.43:757][317]LogMetaData: Removing '/Game/UI/WB/RenameTmp.RenameTmp:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/WB/InGameP_wb.PackageMetaData'
+[2024.05.09-10.54.43:757][317]LogMetaData: Removing '/Game/UI/WB/RenameTmp.RenameTmp:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/WB/InGameP_wb.PackageMetaData'
+[2024.05.09-10.54.43:757][317]LogMetaData: Removing '/Game/UI/WB/RenameTmp.RenameTmp:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/WB/InGameP_wb.PackageMetaData'
+[2024.05.09-10.54.43:806][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.05.09-10.54.43:831][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.05.09-10.54.43:853][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.05.09-10.54.43:855][317]LogMetaData: Removing '/Game/UI/WB/InGameP_WB.InGameP_WB_C' ref from Metadata '/Game/UI/WB/RenameTmp.PackageMetaData'
+[2024.05.09-10.54.43:855][317]LogMetaData: Removing '/Game/UI/WB/InGameP_WB.SKEL_InGameP_WB_C' ref from Metadata '/Game/UI/WB/RenameTmp.PackageMetaData'
+[2024.05.09-10.54.43:855][317]LogMetaData: Removing '/Game/UI/WB/InGameP_WB.SKEL_InGameP_WB_C:PreConstruct' ref from Metadata '/Game/UI/WB/RenameTmp.PackageMetaData'
+[2024.05.09-10.54.43:855][317]LogMetaData: Removing '/Game/UI/WB/InGameP_WB.SKEL_InGameP_WB_C:Construct' ref from Metadata '/Game/UI/WB/RenameTmp.PackageMetaData'
+[2024.05.09-10.54.43:855][317]LogMetaData: Removing '/Game/UI/WB/InGameP_WB.SKEL_InGameP_WB_C:Tick' ref from Metadata '/Game/UI/WB/RenameTmp.PackageMetaData'
+[2024.05.09-10.54.43:855][317]LogMetaData: Removing '/Game/UI/WB/InGameP_WB.InGameP_WB:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/WB/RenameTmp.PackageMetaData'
+[2024.05.09-10.54.43:855][317]LogMetaData: Removing '/Game/UI/WB/InGameP_WB.InGameP_WB:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/WB/RenameTmp.PackageMetaData'
+[2024.05.09-10.54.43:855][317]LogMetaData: Removing '/Game/UI/WB/InGameP_WB.InGameP_WB:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/WB/RenameTmp.PackageMetaData'
+[2024.05.09-10.54.43:887][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.05.09-10.54.43:909][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.05.09-10.54.43:930][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.05.09-10.55.31:805][ 59]BlueprintLog: New page: Compile End_WB
+[2024.05.09-10.55.31:831][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.05.09-10.55.49:570][173]BlueprintLog: New page: Compile InGame_WB
+[2024.05.09-10.55.49:596][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.05.09-10.56.49:891][995]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.09-10.57.02:808][260]LogDerivedDataCache: C:/Users/2201894/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.070 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 681 files in 1139 folders with total size 62 MiB.
+[2024.05.09-10.58.45:982][192]BlueprintLog: New page: Compile MainMenu_WB
+[2024.05.09-10.58.46:025][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.05.09-11.03.15:799][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.05.09-11.03.15:804][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_L" FILE="D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/Autosaves/Game/UI/MainMenu_L_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.05.09-11.03.15:810][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/MainMenu_L_Auto3
+[2024.05.09-11.03.15:811][314]LogSavePackage: Moving 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/MainMenu_L_Auto37E7729814FCED08A4B0E57AA8FA30302.tmp' to 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/Autosaves/Game/UI/MainMenu_L_Auto3.umap'
+[2024.05.09-11.03.15:819][314]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UI/MainMenu_L' took 0.078
+[2024.05.09-11.03.15:819][314]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.078
+[2024.05.09-11.03.15:820][314]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WB/MainMenu_WB] ([2] browsable assets)...
+[2024.05.09-11.03.15:829][314]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WB/MainMenu_WB.MainMenu_WB]
+[2024.05.09-11.03.15:829][314]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB/MainMenu_WB]
+[2024.05.09-11.03.15:829][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB/MainMenu_WB" FILE="D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/Autosaves/Game/UI/WB/MainMenu_WB_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.05.09-11.03.15:837][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WB/MainMenu_WB_Auto3
+[2024.05.09-11.03.15:839][314]LogSavePackage: Moving 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/MainMenu_WB_Auto369B09579476B813E23F44F9C01696194.tmp' to 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/Autosaves/Game/UI/WB/MainMenu_WB_Auto3.uasset'
+[2024.05.09-11.04.15:215][873]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/Images/Overlay/In_Game_Overlay_Border.In_Game_Overlay_Border
+[2024.05.09-11.04.15:278][873]LogViewport: Scene viewport resized to 1905x1290, mode Windowed.
+[2024.05.09-11.04.15:332][874]LogViewport: Scene viewport resized to 1905x1276, mode Windowed.
+[2024.05.09-11.04.15:374][875]LogViewport: Scene viewport resized to 1905x1258, mode Windowed.
+[2024.05.09-11.06.54:279][335]LogEditorTransaction: Undo Edit Right
+[2024.05.09-11.07.09:374][825]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.05.09-11.07.09:741][830]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.05.09-11.07.29:006][888]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.05.09-11.07.29:642][898]LogEditorTransaction: Undo Edit Right
+[2024.05.09-11.07.36:894][684]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.05.09-11.07.37:558][696]LogEditorTransaction: Undo Edit Bottom
+[2024.05.09-11.08.53:764][358]BlueprintLog: New page: Compile InGame_WB
+[2024.05.09-11.08.53:806][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.05.09-11.10.04:838][498]BlueprintLog: New page: Compile End_WB
+[2024.05.09-11.10.04:868][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.05.09-11.10.18:500][998]Cmd: TRANSACTION UNDO
+[2024.05.09-11.10.18:500][998]LogEditorTransaction: Undo New Animation
+[2024.05.09-11.11.15:256][791]Cmd: TRANSACTION UNDO
+[2024.05.09-11.11.15:256][791]LogEditorTransaction: Undo Set Key Value
+[2024.05.09-11.11.19:685][163]Cmd: TRANSACTION UNDO
+[2024.05.09-11.11.19:685][163]LogEditorTransaction: Undo Set Key Value
+[2024.05.09-11.11.34:121][530]Cmd: TRANSACTION UNDO
+[2024.05.09-11.11.34:121][530]LogEditorTransaction: Undo Set Key Value
+[2024.05.09-11.11.34:810][542]Cmd: TRANSACTION UNDO
+[2024.05.09-11.11.34:810][542]LogEditorTransaction: Undo Set Key Value
+[2024.05.09-11.11.37:428][755]BlueprintLog: New page: Compile End_WB
+[2024.05.09-11.11.37:478][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.05.09-11.12.09:158][243]BlueprintLog: New page: Compile End_WB
+[2024.05.09-11.12.09:189][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.05.09-11.12.09:663][287]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.09-11.12.09:712][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB/End_WB" FILE="D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Content/UI/WB/End_WB.uasset" SILENT=true
+[2024.05.09-11.12.09:733][287]LogSavePackage: Moving output files for package: /Game/UI/WB/End_WB
+[2024.05.09-11.12.09:735][287]LogSavePackage: Moving 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/End_WBF5C2C30348FC790BF6CB9D8CDF5D6A20.tmp' to 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Content/UI/WB/End_WB.uasset'
+[2024.05.09-11.12.09:746][287]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 14.4 sec)
+[2024.05.09-11.12.09:758][287]AssetCheck: New page: Asset Save: End_WB
+[2024.05.09-11.12.09:758][287]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB/End_WB.End_WB
+[2024.05.09-11.12.11:776][507]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.09-11.12.11:784][507]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.05.09-11.12.11:784][507]LogPlayLevel: [PlayLevel] Compiling MainMenu_L before play...
+[2024.05.09-11.12.11:801][507]LogPlayLevel: [PlayLevel] Compiling Options_WB1 before play...
+[2024.05.09-11.12.11:834][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.05.09-11.12.11:837][507]LogPlayLevel: PlayLevel: Blueprint regeneration took 53 ms (2 blueprints)
+[2024.05.09-11.12.11:837][507]PIE: New page: PIE session: MainMenu_L (9 May 2024, 13:12:11)
+[2024.05.09-11.12.11:837][507]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_MainMenu_L
+[2024.05.09-11.12.11:839][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001654s)
+[2024.05.09-11.12.11:839][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MainMenu_L.MainMenu_L to /Game/UI/UEDPIE_0_MainMenu_L.MainMenu_L (0.001699s)
+[2024.05.09-11.12.11:839][507]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.09-11.12.11:839][507]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.09-11.12.11:840][507]LogAIModule: Creating AISystem for world MainMenu_L
+[2024.05.09-11.12.11:840][507]LogPlayLevel: PIE: World Init took: (0.001077s)
+[2024.05.09-11.12.11:865][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.05.09-11.12.11:866][507]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.05.09-11.12.11:866][507]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.09-11.12.11:866][507]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.09-11.12.11:866][507]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.09-11.12.11:866][507]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.09-11.12.11:866][507]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.09-11.12.11:866][507]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.09-11.12.11:866][507]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.09-11.12.11:866][507]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.09-11.12.11:867][507]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.09-11.12.11:867][507]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.09-11.12.11:867][507]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.09-11.12.11:870][507]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.09-11.12.11:898][507]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek(R) Audio)
+[2024.05.09-11.12.11:898][507]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.09-11.12.11:898][507]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.09-11.12.11:898][507]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.09-11.12.11:899][507]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.05.09-11.12.11:899][507]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.05.09-11.12.11:901][507]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.05.09-11.12.11:901][507]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.05.09-11.12.11:901][507]LogInit: FAudioDevice initialized with ID 6.
+[2024.05.09-11.12.11:901][507]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainMenu_L'.
+[2024.05.09-11.12.11:901][507]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.05.09-11.12.11:904][507]LogLoad: Game class is 'GameModeBase'
+[2024.05.09-11.12.11:904][507]LogWorld: Bringing World /Game/UI/UEDPIE_0_MainMenu_L.MainMenu_L up for play (max tick rate 0) at 2024.05.09-12.12.11
+[2024.05.09-11.12.11:905][507]LogWorld: Bringing up level for play took: 0.000332
+[2024.05.09-11.12.11:907][507]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.05.09-11.12.11:908][507]PIE: Server logged in
+[2024.05.09-11.12.11:909][507]PIE: Play in editor total start time 0.125 seconds.
+[2024.05.09-11.12.14:756][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.09-11.12.14:756][813]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_MainMenu_L
+[2024.05.09-11.12.14:756][813]LogWorld: UWorld::CleanupWorld for MainMenu_L, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-11.12.14:756][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-11.12.14:759][813]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.09-11.12.14:764][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-11.12.14:786][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.09-11.12.14:787][813]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.05.09-11.12.14:787][813]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.09-11.12.14:789][813]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.09-11.12.14:796][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.05.09-11.12.14:859][817]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.05.09-11.13.01:293][324]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-11.13.01:293][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-11.13.01:302][324]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-11.13.01:302][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-11.14.42:792][774]BlueprintLog: New page: Compile MainMenu_WB
+[2024.05.09-11.14.42:828][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.05.09-11.15.11:658][575]Cmd: TRANSACTION UNDO
+[2024.05.09-11.15.11:658][575]LogEditorTransaction: Undo Delete Animation
+[2024.05.09-11.15.50:182][197]BlueprintLog: New page: Compile End_WB
+[2024.05.09-11.15.50:221][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.05.09-11.16.02:249][475]BlueprintLog: New page: Compile End_WB
+[2024.05.09-11.16.02:278][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.05.09-11.16.02:722][516]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.09-11.16.02:770][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB/End_WB" FILE="D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Content/UI/WB/End_WB.uasset" SILENT=true
+[2024.05.09-11.16.02:783][516]LogSavePackage: Moving output files for package: /Game/UI/WB/End_WB
+[2024.05.09-11.16.02:784][516]LogSavePackage: Moving 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/End_WB1AA899E247885456BBA2AB960FE378A4.tmp' to 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Content/UI/WB/End_WB.uasset'
+[2024.05.09-11.16.02:792][516]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 14.4 sec)
+[2024.05.09-11.16.02:803][516]AssetCheck: New page: Asset Save: End_WB
+[2024.05.09-11.16.02:803][516]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB/End_WB.End_WB
+[2024.05.09-11.16.29:708][627]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-11.16.29:708][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-11.16.29:716][627]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-11.16.29:716][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-11.22.05:772][242]BlueprintLog: New page: Compile MainMenu_WB
+[2024.05.09-11.22.05:833][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.05.09-11.24.15:166][982]Cmd: TRANSACTION UNDO
+[2024.05.09-11.24.15:166][982]LogEditorTransaction: Undo Stretch
+[2024.05.09-11.25.08:891][578]BlueprintLog: New page: Compile MainMenu_WB
+[2024.05.09-11.25.08:948][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.05.09-11.26.42:207][  3]BlueprintLog: New page: Compile MainMenu_WB
+[2024.05.09-11.26.42:241][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.05.09-11.29.26:811][314]BlueprintLog: New page: Compile MainMenu_WB
+[2024.05.09-11.29.26:848][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.05.09-11.29.30:165][650]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.09-11.29.30:174][650]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.05.09-11.29.30:174][650]LogPlayLevel: [PlayLevel] Compiling End_WB before play...
+[2024.05.09-11.29.30:226][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.05.09-11.29.30:230][650]LogPlayLevel: PlayLevel: Blueprint regeneration took 55 ms (1 blueprints)
+[2024.05.09-11.29.30:230][650]PIE: New page: PIE session: MainMenu_L (9 May 2024, 13:29:30)
+[2024.05.09-11.29.30:230][650]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_MainMenu_L
+[2024.05.09-11.29.30:231][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001388s)
+[2024.05.09-11.29.30:231][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MainMenu_L.MainMenu_L to /Game/UI/UEDPIE_0_MainMenu_L.MainMenu_L (0.001425s)
+[2024.05.09-11.29.30:232][650]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.09-11.29.30:232][650]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.09-11.29.30:232][650]LogAIModule: Creating AISystem for world MainMenu_L
+[2024.05.09-11.29.30:232][650]LogPlayLevel: PIE: World Init took: (0.001003s)
+[2024.05.09-11.29.30:255][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.05.09-11.29.30:256][650]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.05.09-11.29.30:256][650]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.09-11.29.30:256][650]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.09-11.29.30:256][650]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.09-11.29.30:256][650]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.09-11.29.30:256][650]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.09-11.29.30:256][650]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.09-11.29.30:257][650]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.09-11.29.30:257][650]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.09-11.29.30:257][650]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.09-11.29.30:257][650]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.09-11.29.30:257][650]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.09-11.29.30:260][650]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.09-11.29.30:287][650]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek(R) Audio)
+[2024.05.09-11.29.30:287][650]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.09-11.29.30:287][650]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.09-11.29.30:287][650]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.09-11.29.30:288][650]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.05.09-11.29.30:288][650]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.05.09-11.29.30:290][650]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.05.09-11.29.30:290][650]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.05.09-11.29.30:290][650]LogInit: FAudioDevice initialized with ID 7.
+[2024.05.09-11.29.30:290][650]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainMenu_L'.
+[2024.05.09-11.29.30:290][650]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.05.09-11.29.30:363][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.09-11.29.30:364][650]LogLoad: Game class is 'GameModeBase'
+[2024.05.09-11.29.30:364][650]LogWorld: Bringing World /Game/UI/UEDPIE_0_MainMenu_L.MainMenu_L up for play (max tick rate 0) at 2024.05.09-12.29.30
+[2024.05.09-11.29.30:364][650]LogWorld: Bringing up level for play took: 0.000439
+[2024.05.09-11.29.30:367][650]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2024.05.09-11.29.30:367][650]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.05.09-11.29.30:375][650]PIE: Server logged in
+[2024.05.09-11.29.30:378][650]PIE: Play in editor total start time 0.204 seconds.
+[2024.05.09-11.29.30:397][650]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.05.09-11.29.34:991][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.09-11.29.34:991][989]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_MainMenu_L
+[2024.05.09-11.29.34:991][989]LogSlate: Window 'Dreamscape Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.05.09-11.29.34:993][989]LogWorld: UWorld::CleanupWorld for MainMenu_L, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-11.29.34:993][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-11.29.34:996][989]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.09-11.29.35:001][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-11.29.35:025][989]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.05.09-11.29.35:025][989]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.05.09-11.29.35:027][989]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.05.09-11.29.35:035][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.05.09-11.29.35:058][990]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.05.09-11.29.35:620][ 42]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.09-11.29.35:631][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.09-11.29.35:631][ 42]PIE: New page: PIE session: MainMenu_L (9 May 2024, 13:29:35)
+[2024.05.09-11.29.35:631][ 42]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_MainMenu_L
+[2024.05.09-11.29.35:639][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007139s)
+[2024.05.09-11.29.35:639][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MainMenu_L.MainMenu_L to /Game/UI/UEDPIE_0_MainMenu_L.MainMenu_L (0.007183s)
+[2024.05.09-11.29.35:639][ 42]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.09-11.29.35:639][ 42]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.09-11.29.35:639][ 42]LogAIModule: Creating AISystem for world MainMenu_L
+[2024.05.09-11.29.35:640][ 42]LogPlayLevel: PIE: World Init took: (0.001153s)
+[2024.05.09-11.29.35:673][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.05.09-11.29.35:674][ 42]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.05.09-11.29.35:674][ 42]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.09-11.29.35:674][ 42]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.09-11.29.35:674][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.09-11.29.35:674][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.09-11.29.35:674][ 42]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.09-11.29.35:674][ 42]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.09-11.29.35:675][ 42]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.09-11.29.35:675][ 42]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.09-11.29.35:675][ 42]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.09-11.29.35:676][ 42]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.09-11.29.35:676][ 42]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.09-11.29.35:678][ 42]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.09-11.29.35:703][ 42]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek(R) Audio)
+[2024.05.09-11.29.35:703][ 42]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.09-11.29.35:703][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.09-11.29.35:703][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.09-11.29.35:704][ 42]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.05.09-11.29.35:704][ 42]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.05.09-11.29.35:706][ 42]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.05.09-11.29.35:706][ 42]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.05.09-11.29.35:706][ 42]LogInit: FAudioDevice initialized with ID 8.
+[2024.05.09-11.29.35:706][ 42]LogAudio: Display: Audio Device (ID: 8) registered with world 'MainMenu_L'.
+[2024.05.09-11.29.35:706][ 42]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.05.09-11.29.35:761][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.09-11.29.35:761][ 42]LogLoad: Game class is 'GameModeBase'
+[2024.05.09-11.29.35:762][ 42]LogWorld: Bringing World /Game/UI/UEDPIE_0_MainMenu_L.MainMenu_L up for play (max tick rate 0) at 2024.05.09-12.29.35
+[2024.05.09-11.29.35:762][ 42]LogWorld: Bringing up level for play took: 0.000412
+[2024.05.09-11.29.35:765][ 42]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.05.09-11.29.35:765][ 42]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.05.09-11.29.35:770][ 42]PIE: Server logged in
+[2024.05.09-11.29.35:773][ 42]PIE: Play in editor total start time 0.142 seconds.
+[2024.05.09-11.29.35:787][ 42]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.05.09-11.29.41:681][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.09-11.29.41:681][446]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_MainMenu_L
+[2024.05.09-11.29.41:681][446]LogSlate: Window 'Dreamscape Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.05.09-11.29.41:687][446]LogWorld: UWorld::CleanupWorld for MainMenu_L, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-11.29.41:687][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-11.29.41:690][446]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.09-11.29.41:696][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-11.29.41:724][446]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.05.09-11.29.41:724][446]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.05.09-11.29.41:726][446]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.05.09-11.29.41:734][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.05.09-11.29.41:757][447]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.05.09-11.30.31:385][299]BlueprintLog: New page: Compile MainMenu_WB
+[2024.05.09-11.30.31:420][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.05.09-11.30.33:149][454]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.09-11.30.33:157][454]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.09-11.30.33:157][454]PIE: New page: PIE session: MainMenu_L (9 May 2024, 13:30:33)
+[2024.05.09-11.30.33:157][454]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_MainMenu_L
+[2024.05.09-11.30.33:158][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001335s)
+[2024.05.09-11.30.33:159][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MainMenu_L.MainMenu_L to /Game/UI/UEDPIE_0_MainMenu_L.MainMenu_L (0.001366s)
+[2024.05.09-11.30.33:159][454]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.09-11.30.33:159][454]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.09-11.30.33:159][454]LogAIModule: Creating AISystem for world MainMenu_L
+[2024.05.09-11.30.33:159][454]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2024.05.09-11.30.33:183][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.05.09-11.30.33:187][454]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.05.09-11.30.33:187][454]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.09-11.30.33:187][454]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.09-11.30.33:187][454]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.09-11.30.33:187][454]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.09-11.30.33:187][454]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.09-11.30.33:187][454]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.09-11.30.33:187][454]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.09-11.30.33:187][454]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.09-11.30.33:187][454]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.09-11.30.33:187][454]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.09-11.30.33:187][454]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.09-11.30.33:190][454]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.09-11.30.33:215][454]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek(R) Audio)
+[2024.05.09-11.30.33:215][454]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.09-11.30.33:215][454]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.09-11.30.33:215][454]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.09-11.30.33:216][454]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.05.09-11.30.33:216][454]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.05.09-11.30.33:220][454]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.05.09-11.30.33:220][454]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.05.09-11.30.33:220][454]LogInit: FAudioDevice initialized with ID 9.
+[2024.05.09-11.30.33:220][454]LogAudio: Display: Audio Device (ID: 9) registered with world 'MainMenu_L'.
+[2024.05.09-11.30.33:220][454]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.05.09-11.30.33:284][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.09-11.30.33:284][454]LogLoad: Game class is 'GameModeBase'
+[2024.05.09-11.30.33:285][454]LogWorld: Bringing World /Game/UI/UEDPIE_0_MainMenu_L.MainMenu_L up for play (max tick rate 0) at 2024.05.09-12.30.33
+[2024.05.09-11.30.33:285][454]LogWorld: Bringing up level for play took: 0.000780
+[2024.05.09-11.30.33:290][454]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.05.09-11.30.33:290][454]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.05.09-11.30.33:297][454]PIE: Server logged in
+[2024.05.09-11.30.33:302][454]PIE: Play in editor total start time 0.144 seconds.
+[2024.05.09-11.30.33:318][454]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.05.09-11.30.39:231][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.09-11.30.39:231][990]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_MainMenu_L
+[2024.05.09-11.30.39:232][990]LogSlate: Window 'Dreamscape Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.05.09-11.30.39:241][990]LogWorld: UWorld::CleanupWorld for MainMenu_L, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-11.30.39:241][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-11.30.39:247][990]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.09-11.30.39:256][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-11.30.39:306][990]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.09-11.30.39:306][990]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.05.09-11.30.39:306][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.05.09-11.30.39:308][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.05.09-11.30.39:316][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.05.09-11.30.39:336][991]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.05.09-11.32.32:168][656]Cmd: TRANSACTION UNDO
+[2024.05.09-11.32.32:168][656]LogEditorTransaction: Undo Resize section
+[2024.05.09-11.32.40:821][394]Cmd: TRANSACTION UNDO
+[2024.05.09-11.32.40:821][394]LogEditorTransaction: Undo Animatable Property Changed
+[2024.05.09-11.32.55:677][735]BlueprintLog: New page: Compile MainMenu_WB
+[2024.05.09-11.32.55:719][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.05.09-11.33.37:616][263]LogWindows: LaunchFileInExternalEditor C:/Program Files/Epic Games/UE_5.2/Engine/Source/Runtime/UMG/Private/UserWidget.cpp 
+[2024.05.09-11.33.37:909][263]LogWindows: Launch application code for C:/Program Files/Epic Games/UE_5.2/Engine/Source/Runtime/UMG/Private/UserWidget.cpp : 42
+[2024.05.09-11.33.37:909][263]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2024.05.09-11.33.37:917][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:918][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:918][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:918][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:918][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:918][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:918][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:918][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:918][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:918][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:918][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:918][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:918][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:918][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:919][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:919][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:919][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:919][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:919][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:919][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:919][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:919][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:919][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:919][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:920][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:920][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:920][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:920][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:920][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:920][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:920][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:920][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:920][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:920][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:920][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:920][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:921][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:921][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:921][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:921][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:921][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:921][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:921][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:921][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:921][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:921][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:921][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:922][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:922][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:922][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:922][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:922][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:922][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:922][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:922][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:922][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:922][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:922][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:922][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:923][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:923][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:923][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:923][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:923][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:923][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:923][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:923][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:923][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:923][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:924][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:924][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:924][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:924][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:924][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:924][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:924][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:924][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:924][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:924][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:924][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:924][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:925][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:925][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:925][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:925][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:925][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:925][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:925][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:925][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:925][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:925][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:925][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:926][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:926][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:926][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:926][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:926][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:926][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:926][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:926][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:926][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:926][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:926][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:927][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:927][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:927][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:927][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:927][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:927][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:927][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:927][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:927][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:927][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:927][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:927][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:927][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:927][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:927][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:927][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:927][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:927][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:928][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:928][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:928][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:928][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:928][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:928][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:928][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:942][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:942][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:942][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:942][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:942][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:956][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:956][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:958][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:958][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.37:992][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.38:003][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.38:013][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.38:013][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.38:052][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.38:141][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.38:141][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.38:155][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.38:155][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.38:155][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.38:155][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.38:155][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.38:155][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.38:155][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.38:155][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.38:157][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.38:157][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.38:157][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.38:159][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.33.38:177][263]LogVSAccessor: Warning: Couldn't access module table
+[2024.05.09-11.34.32:178][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.05.09-11.34.32:181][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_L" FILE="D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/Autosaves/Game/UI/MainMenu_L_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.05.09-11.34.32:186][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/MainMenu_L_Auto3
+[2024.05.09-11.34.32:187][142]LogSavePackage: Moving 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/MainMenu_L_Auto34AB80B984AD04B186B2E739E817249C2.tmp' to 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/Autosaves/Game/UI/MainMenu_L_Auto3.umap'
+[2024.05.09-11.34.32:193][142]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UI/MainMenu_L' took 0.074
+[2024.05.09-11.34.32:193][142]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.074
+[2024.05.09-11.34.32:193][142]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WB/MainMenu_WB] ([2] browsable assets)...
+[2024.05.09-11.34.32:197][142]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WB/MainMenu_WB.MainMenu_WB]
+[2024.05.09-11.34.32:197][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB/MainMenu_WB]
+[2024.05.09-11.34.32:197][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB/MainMenu_WB" FILE="D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/Autosaves/Game/UI/WB/MainMenu_WB_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.05.09-11.34.32:214][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WB/MainMenu_WB_Auto3
+[2024.05.09-11.34.32:214][142]LogSavePackage: Moving 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/MainMenu_WB_Auto37FAC53FC415D6B9F4479F2A6CB3E6D8C.tmp' to 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/Autosaves/Game/UI/WB/MainMenu_WB_Auto3.uasset'
+[2024.05.09-11.35.34:411][736]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.05.09-11.36.02:593][861]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.09-11.38.25:582][988]LogEditorTransaction: Undo Move Anchor
+[2024.05.09-11.38.42:008][777]BlueprintLog: New page: Compile MainMenu_WB
+[2024.05.09-11.38.42:059][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.05.09-11.39.02:874][178]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.09-11.39.02:883][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.09-11.39.02:883][178]PIE: New page: PIE session: MainMenu_L (9 May 2024, 13:39:02)
+[2024.05.09-11.39.02:883][178]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_MainMenu_L
+[2024.05.09-11.39.02:884][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001255s)
+[2024.05.09-11.39.02:884][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MainMenu_L.MainMenu_L to /Game/UI/UEDPIE_0_MainMenu_L.MainMenu_L (0.001291s)
+[2024.05.09-11.39.02:884][178]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.09-11.39.02:884][178]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.09-11.39.02:885][178]LogAIModule: Creating AISystem for world MainMenu_L
+[2024.05.09-11.39.02:885][178]LogPlayLevel: PIE: World Init took: (0.001023s)
+[2024.05.09-11.39.02:909][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.05.09-11.39.02:912][178]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.05.09-11.39.02:912][178]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.09-11.39.02:912][178]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.09-11.39.02:912][178]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.09-11.39.02:912][178]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.09-11.39.02:912][178]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.09-11.39.02:912][178]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.09-11.39.02:912][178]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.09-11.39.02:912][178]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.09-11.39.02:913][178]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.09-11.39.02:913][178]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.09-11.39.02:913][178]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.09-11.39.02:915][178]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.09-11.39.02:941][178]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek(R) Audio)
+[2024.05.09-11.39.02:942][178]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.09-11.39.02:942][178]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.09-11.39.02:942][178]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.09-11.39.02:943][178]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.05.09-11.39.02:943][178]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.05.09-11.39.02:946][178]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.05.09-11.39.02:946][178]LogInit: FAudioDevice initialized with ID 10.
+[2024.05.09-11.39.02:946][178]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.05.09-11.39.02:946][178]LogAudio: Display: Audio Device (ID: 10) registered with world 'MainMenu_L'.
+[2024.05.09-11.39.02:946][178]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.05.09-11.39.03:011][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.09-11.39.03:011][178]LogLoad: Game class is 'GameModeBase'
+[2024.05.09-11.39.03:012][178]LogWorld: Bringing World /Game/UI/UEDPIE_0_MainMenu_L.MainMenu_L up for play (max tick rate 0) at 2024.05.09-12.39.03
+[2024.05.09-11.39.03:012][178]LogWorld: Bringing up level for play took: 0.000878
+[2024.05.09-11.39.03:018][178]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.05.09-11.39.03:019][178]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.05.09-11.39.03:026][178]PIE: Server logged in
+[2024.05.09-11.39.03:029][178]PIE: Play in editor total start time 0.146 seconds.
+[2024.05.09-11.39.03:042][178]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.05.09-11.39.13:531][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.09-11.39.13:531][395]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_MainMenu_L
+[2024.05.09-11.39.13:532][395]LogSlate: Window 'Dreamscape Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.05.09-11.39.13:541][395]LogWorld: UWorld::CleanupWorld for MainMenu_L, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-11.39.13:541][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-11.39.13:547][395]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.09-11.39.13:556][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-11.39.13:610][395]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.09-11.39.13:610][395]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.05.09-11.39.13:610][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.05.09-11.39.13:612][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.05.09-11.39.13:620][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.05.09-11.39.13:635][396]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.05.09-11.40.21:383][961]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.09-11.40.21:391][961]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.09-11.40.21:391][961]PIE: New page: PIE session: MainMenu_L (9 May 2024, 13:40:21)
+[2024.05.09-11.40.21:391][961]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_MainMenu_L
+[2024.05.09-11.40.21:392][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001412s)
+[2024.05.09-11.40.21:392][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MainMenu_L.MainMenu_L to /Game/UI/UEDPIE_0_MainMenu_L.MainMenu_L (0.001444s)
+[2024.05.09-11.40.21:392][961]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.09-11.40.21:392][961]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.09-11.40.21:393][961]LogAIModule: Creating AISystem for world MainMenu_L
+[2024.05.09-11.40.21:393][961]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2024.05.09-11.40.21:431][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.05.09-11.40.21:435][961]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.05.09-11.40.21:435][961]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.09-11.40.21:435][961]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.09-11.40.21:435][961]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.09-11.40.21:435][961]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.09-11.40.21:435][961]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.09-11.40.21:435][961]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.09-11.40.21:435][961]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.09-11.40.21:435][961]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.09-11.40.21:435][961]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.09-11.40.21:435][961]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.09-11.40.21:435][961]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.09-11.40.21:438][961]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.09-11.40.21:466][961]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek(R) Audio)
+[2024.05.09-11.40.21:466][961]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.09-11.40.21:466][961]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.09-11.40.21:466][961]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.09-11.40.21:467][961]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.05.09-11.40.21:467][961]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.05.09-11.40.21:471][961]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.05.09-11.40.21:471][961]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.05.09-11.40.21:471][961]LogInit: FAudioDevice initialized with ID 11.
+[2024.05.09-11.40.21:471][961]LogAudio: Display: Audio Device (ID: 11) registered with world 'MainMenu_L'.
+[2024.05.09-11.40.21:471][961]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.05.09-11.40.21:553][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.09-11.40.21:553][961]LogLoad: Game class is 'GameModeBase'
+[2024.05.09-11.40.21:554][961]LogWorld: Bringing World /Game/UI/UEDPIE_0_MainMenu_L.MainMenu_L up for play (max tick rate 0) at 2024.05.09-12.40.21
+[2024.05.09-11.40.21:554][961]LogWorld: Bringing up level for play took: 0.000790
+[2024.05.09-11.40.21:559][961]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.05.09-11.40.21:561][961]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.05.09-11.40.21:569][961]PIE: Server logged in
+[2024.05.09-11.40.21:574][961]PIE: Play in editor total start time 0.182 seconds.
+[2024.05.09-11.40.21:598][961]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.05.09-11.40.27:300][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.09-11.40.27:300][515]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_MainMenu_L
+[2024.05.09-11.40.27:301][515]LogSlate: Window 'Dreamscape Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.05.09-11.40.27:306][515]LogWorld: UWorld::CleanupWorld for MainMenu_L, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-11.40.27:306][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-11.40.27:309][515]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.09-11.40.27:315][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-11.40.27:357][515]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.05.09-11.40.27:357][515]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.05.09-11.40.27:359][515]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.05.09-11.40.27:369][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.05.09-11.40.27:388][516]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.05.09-11.40.43:479][166]BlueprintLog: New page: Compile MainMenu_WB
+[2024.05.09-11.40.43:537][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.05.09-11.40.44:501][240]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.09-11.40.44:508][240]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.09-11.40.44:508][240]PIE: New page: PIE session: MainMenu_L (9 May 2024, 13:40:44)
+[2024.05.09-11.40.44:508][240]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_MainMenu_L
+[2024.05.09-11.40.44:510][240]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001313s)
+[2024.05.09-11.40.44:510][240]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MainMenu_L.MainMenu_L to /Game/UI/UEDPIE_0_MainMenu_L.MainMenu_L (0.001345s)
+[2024.05.09-11.40.44:510][240]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.09-11.40.44:510][240]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.09-11.40.44:510][240]LogAIModule: Creating AISystem for world MainMenu_L
+[2024.05.09-11.40.44:511][240]LogPlayLevel: PIE: World Init took: (0.000795s)
+[2024.05.09-11.40.44:535][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.05.09-11.40.44:537][240]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.05.09-11.40.44:537][240]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.09-11.40.44:537][240]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.09-11.40.44:537][240]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.09-11.40.44:538][240]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.09-11.40.44:538][240]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.09-11.40.44:538][240]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.09-11.40.44:538][240]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.09-11.40.44:538][240]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.09-11.40.44:538][240]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.09-11.40.44:538][240]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.09-11.40.44:538][240]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.09-11.40.44:540][240]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.09-11.40.44:567][240]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek(R) Audio)
+[2024.05.09-11.40.44:567][240]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.09-11.40.44:567][240]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.09-11.40.44:567][240]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.09-11.40.44:569][240]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.05.09-11.40.44:569][240]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.05.09-11.40.44:572][240]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.05.09-11.40.44:572][240]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.05.09-11.40.44:572][240]LogInit: FAudioDevice initialized with ID 12.
+[2024.05.09-11.40.44:572][240]LogAudio: Display: Audio Device (ID: 12) registered with world 'MainMenu_L'.
+[2024.05.09-11.40.44:572][240]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.05.09-11.40.44:635][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.09-11.40.44:635][240]LogLoad: Game class is 'GameModeBase'
+[2024.05.09-11.40.44:636][240]LogWorld: Bringing World /Game/UI/UEDPIE_0_MainMenu_L.MainMenu_L up for play (max tick rate 0) at 2024.05.09-12.40.44
+[2024.05.09-11.40.44:636][240]LogWorld: Bringing up level for play took: 0.000882
+[2024.05.09-11.40.44:642][240]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2024.05.09-11.40.44:643][240]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.05.09-11.40.44:650][240]PIE: Server logged in
+[2024.05.09-11.40.44:654][240]PIE: Play in editor total start time 0.145 seconds.
+[2024.05.09-11.40.44:674][240]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.05.09-11.40.49:891][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.09-11.40.49:891][750]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_MainMenu_L
+[2024.05.09-11.40.49:891][750]LogSlate: Window 'Dreamscape Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.05.09-11.40.49:898][750]LogWorld: UWorld::CleanupWorld for MainMenu_L, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-11.40.49:898][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-11.40.49:900][750]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.09-11.40.49:907][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-11.40.49:950][750]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.09-11.40.49:950][750]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.05.09-11.40.49:950][750]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.05.09-11.40.49:952][750]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.05.09-11.40.49:961][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.05.09-11.40.49:983][751]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2024.05.09-11.42.00:909][936]BlueprintLog: New page: Compile MainMenu_WB
+[2024.05.09-11.42.00:973][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.05.09-11.42.01:748][990]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.09-11.42.01:756][990]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.09-11.42.01:756][990]PIE: New page: PIE session: MainMenu_L (9 May 2024, 13:42:01)
+[2024.05.09-11.42.01:756][990]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_MainMenu_L
+[2024.05.09-11.42.01:757][990]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001297s)
+[2024.05.09-11.42.01:757][990]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MainMenu_L.MainMenu_L to /Game/UI/UEDPIE_0_MainMenu_L.MainMenu_L (0.001330s)
+[2024.05.09-11.42.01:757][990]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.09-11.42.01:757][990]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.09-11.42.01:758][990]LogAIModule: Creating AISystem for world MainMenu_L
+[2024.05.09-11.42.01:758][990]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2024.05.09-11.42.01:780][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.05.09-11.42.01:783][990]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.05.09-11.42.01:783][990]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.09-11.42.01:783][990]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.09-11.42.01:783][990]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.09-11.42.01:783][990]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.09-11.42.01:783][990]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.09-11.42.01:783][990]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.09-11.42.01:783][990]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.09-11.42.01:783][990]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.09-11.42.01:784][990]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.09-11.42.01:784][990]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.09-11.42.01:784][990]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.09-11.42.01:786][990]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.09-11.42.01:811][990]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek(R) Audio)
+[2024.05.09-11.42.01:812][990]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.09-11.42.01:812][990]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.09-11.42.01:812][990]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.09-11.42.01:813][990]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.05.09-11.42.01:813][990]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.05.09-11.42.01:816][990]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.05.09-11.42.01:816][990]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.05.09-11.42.01:816][990]LogInit: FAudioDevice initialized with ID 13.
+[2024.05.09-11.42.01:816][990]LogAudio: Display: Audio Device (ID: 13) registered with world 'MainMenu_L'.
+[2024.05.09-11.42.01:816][990]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.05.09-11.42.01:884][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.09-11.42.01:884][990]LogLoad: Game class is 'GameModeBase'
+[2024.05.09-11.42.01:885][990]LogWorld: Bringing World /Game/UI/UEDPIE_0_MainMenu_L.MainMenu_L up for play (max tick rate 0) at 2024.05.09-12.42.01
+[2024.05.09-11.42.01:885][990]LogWorld: Bringing up level for play took: 0.000796
+[2024.05.09-11.42.01:891][990]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2024.05.09-11.42.01:891][990]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.05.09-11.42.01:899][990]PIE: Server logged in
+[2024.05.09-11.42.01:903][990]PIE: Play in editor total start time 0.147 seconds.
+[2024.05.09-11.42.01:918][990]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.05.09-11.42.09:371][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.09-11.42.09:371][730]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_MainMenu_L
+[2024.05.09-11.42.09:372][730]LogSlate: Window 'Dreamscape Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.05.09-11.42.09:377][730]LogWorld: UWorld::CleanupWorld for MainMenu_L, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-11.42.09:377][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-11.42.09:381][730]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.09-11.42.09:387][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-11.42.09:430][730]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.09-11.42.09:430][730]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.05.09-11.42.09:430][730]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.05.09-11.42.09:433][730]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.05.09-11.42.09:442][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.05.09-11.42.09:463][731]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2024.05.09-11.45.01:692][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.05.09-11.45.01:698][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_L" FILE="D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/Autosaves/Game/UI/MainMenu_L_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.05.09-11.45.01:703][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/MainMenu_L_Auto3
+[2024.05.09-11.45.01:704][ 64]LogSavePackage: Moving 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/MainMenu_L_Auto37E26F9FE4D3E4E5FB6D08E94F1DC72A9.tmp' to 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/Autosaves/Game/UI/MainMenu_L_Auto3.umap'
+[2024.05.09-11.45.01:709][ 64]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UI/MainMenu_L' took 0.071
+[2024.05.09-11.45.01:709][ 64]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.071
+[2024.05.09-11.45.01:709][ 64]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WB/MainMenu_WB] ([2] browsable assets)...
+[2024.05.09-11.45.01:715][ 64]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WB/MainMenu_WB.MainMenu_WB]
+[2024.05.09-11.45.01:715][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB/MainMenu_WB]
+[2024.05.09-11.45.01:715][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB/MainMenu_WB" FILE="D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/Autosaves/Game/UI/WB/MainMenu_WB_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.05.09-11.45.01:733][ 64]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WB/MainMenu_WB_Auto3
+[2024.05.09-11.45.01:734][ 64]LogSavePackage: Moving 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/MainMenu_WB_Auto300FC79584FA897EAF68C2C8D826073B7.tmp' to 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/Autosaves/Game/UI/WB/MainMenu_WB_Auto3.uasset'
+[2024.05.09-11.54.09:898][349]LogViewport: Scene viewport resized to 1014x582, mode Windowed.
+[2024.05.09-11.54.10:146][349]LogViewport: Scene viewport resized to 1009x1256, mode Windowed.
+[2024.05.09-11.54.52:500][714]LogViewport: Scene viewport resized to 1011x1256, mode Windowed.
+[2024.05.09-11.54.52:584][714]LogViewport: Scene viewport resized to 1286x1256, mode Windowed.
+[2024.05.09-11.54.52:651][714]LogViewport: Scene viewport resized to 1475x1256, mode Windowed.
+[2024.05.09-11.54.52:717][714]LogViewport: Scene viewport resized to 1479x1256, mode Windowed.
+[2024.05.09-11.54.52:783][714]LogViewport: Scene viewport resized to 1482x1256, mode Windowed.
+[2024.05.09-11.55.07:296][421]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.09-11.55.07:303][421]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.09-11.55.07:303][421]PIE: New page: PIE session: MainMenu_L (9 May 2024, 13:55:07)
+[2024.05.09-11.55.07:303][421]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_MainMenu_L
+[2024.05.09-11.55.07:305][421]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001392s)
+[2024.05.09-11.55.07:305][421]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MainMenu_L.MainMenu_L to /Game/UI/UEDPIE_0_MainMenu_L.MainMenu_L (0.001430s)
+[2024.05.09-11.55.07:305][421]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.09-11.55.07:305][421]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.09-11.55.07:305][421]LogAIModule: Creating AISystem for world MainMenu_L
+[2024.05.09-11.55.07:306][421]LogPlayLevel: PIE: World Init took: (0.000931s)
+[2024.05.09-11.55.07:332][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.05.09-11.55.07:335][421]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.05.09-11.55.07:335][421]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.09-11.55.07:335][421]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.09-11.55.07:335][421]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.09-11.55.07:335][421]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.09-11.55.07:335][421]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.09-11.55.07:335][421]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.09-11.55.07:335][421]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.09-11.55.07:335][421]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.09-11.55.07:336][421]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.09-11.55.07:336][421]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.09-11.55.07:336][421]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.09-11.55.07:338][421]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.09-11.55.07:368][421]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek(R) Audio)
+[2024.05.09-11.55.07:368][421]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.09-11.55.07:368][421]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.09-11.55.07:368][421]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.09-11.55.07:369][421]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.05.09-11.55.07:369][421]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.05.09-11.55.07:373][421]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.05.09-11.55.07:373][421]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.05.09-11.55.07:373][421]LogInit: FAudioDevice initialized with ID 14.
+[2024.05.09-11.55.07:373][421]LogAudio: Display: Audio Device (ID: 14) registered with world 'MainMenu_L'.
+[2024.05.09-11.55.07:373][421]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.05.09-11.55.07:431][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.09-11.55.07:431][421]LogLoad: Game class is 'GameModeBase'
+[2024.05.09-11.55.07:432][421]LogWorld: Bringing World /Game/UI/UEDPIE_0_MainMenu_L.MainMenu_L up for play (max tick rate 0) at 2024.05.09-12.55.07
+[2024.05.09-11.55.07:433][421]LogWorld: Bringing up level for play took: 0.001010
+[2024.05.09-11.55.07:438][421]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2024.05.09-11.55.07:439][421]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.05.09-11.55.07:445][421]PIE: Server logged in
+[2024.05.09-11.55.07:446][421]PIE: Play in editor total start time 0.143 seconds.
+[2024.05.09-11.55.07:456][421]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.05.09-11.55.27:210][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.09-11.55.27:210][758]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_MainMenu_L
+[2024.05.09-11.55.27:211][758]LogSlate: Window 'Dreamscape Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.05.09-11.55.27:222][758]LogWorld: UWorld::CleanupWorld for MainMenu_L, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-11.55.27:222][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-11.55.27:225][758]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.09-11.55.27:231][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-11.55.27:266][758]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.09-11.55.27:266][758]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.05.09-11.55.27:266][758]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.05.09-11.55.27:269][758]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.05.09-11.55.27:278][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.05.09-11.55.27:295][759]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2024.05.09-11.55.56:244][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.05.09-11.55.56:247][389]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UI/MainMenu_L' took 0.056
+[2024.05.09-11.57.03:841][593]LogDerivedDataCache: C:/Users/2201894/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.080 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 681 files in 1139 folders with total size 62 MiB.
+[2024.05.09-11.58.51:713][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.05.09-11.58.51:740][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.05.09-11.58.52:994][638]LogSlate: Window 'Save Content' being destroyed
+[2024.05.09-11.58.53:009][638]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.09-11.58.53:152][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.05.09-11.58.53:155][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_L" FILE="D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Content/UI/MainMenu_L.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.09-11.58.53:178][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.05.09-11.58.53:185][638]LogSavePackage: Moving output files for package: /Game/UI/MainMenu_L
+[2024.05.09-11.58.53:186][638]LogSavePackage: Moving 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/MainMenu_LF9EAB612448755DCB91A818CA0439825.tmp' to 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Content/UI/MainMenu_L.umap'
+[2024.05.09-11.58.53:195][638]LogFileHelpers: Saving map 'MainMenu_L' took 0.039
+[2024.05.09-11.58.53:202][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB/End_WB" FILE="D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Content/UI/WB/End_WB.uasset" SILENT=true
+[2024.05.09-11.58.53:216][638]LogSavePackage: Moving output files for package: /Game/UI/WB/End_WB
+[2024.05.09-11.58.53:217][638]LogSavePackage: Moving 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/End_WBB47535B44035142D497DA8827921AC82.tmp' to 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Content/UI/WB/End_WB.uasset'
+[2024.05.09-11.58.53:224][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB/InGame_WB" FILE="D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Content/UI/WB/InGame_WB.uasset" SILENT=true
+[2024.05.09-11.58.53:229][638]LogSavePackage: Moving output files for package: /Game/UI/WB/InGame_WB
+[2024.05.09-11.58.53:229][638]LogSavePackage: Moving 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/InGame_WB1D855EDA4F29EBB9E3C59CBF088287E1.tmp' to 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Content/UI/WB/InGame_WB.uasset'
+[2024.05.09-11.58.53:233][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB/InGameP_WB" FILE="D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Content/UI/WB/InGameP_WB.uasset" SILENT=true
+[2024.05.09-11.58.53:237][638]LogSavePackage: Moving output files for package: /Game/UI/WB/InGameP_WB
+[2024.05.09-11.58.53:237][638]LogSavePackage: Moving 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/InGameP_WBDD88A5A34EACFF11425FCF967F278AD5.tmp' to 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Content/UI/WB/InGameP_WB.uasset'
+[2024.05.09-11.58.53:243][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB/MainMenu_WB" FILE="D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Content/UI/WB/MainMenu_WB.uasset" SILENT=true
+[2024.05.09-11.58.53:261][638]LogSavePackage: Moving output files for package: /Game/UI/WB/MainMenu_WB
+[2024.05.09-11.58.53:262][638]LogSavePackage: Moving 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/MainMenu_WBD650CF4D44CBD1C437AAE4A0E0F2F1C4.tmp' to 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Content/UI/WB/MainMenu_WB.uasset'
+[2024.05.09-11.58.53:269][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB/Options_WB1" FILE="D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Content/UI/WB/Options_WB1.uasset" SILENT=true
+[2024.05.09-11.58.53:279][638]LogSavePackage: Moving output files for package: /Game/UI/WB/Options_WB1
+[2024.05.09-11.58.53:280][638]LogSavePackage: Moving 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/Options_WB15ADAD3BA481105E0CE0AA3BD02E1CCED.tmp' to 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Content/UI/WB/Options_WB1.uasset'
+[2024.05.09-11.58.53:296][638]LogFileHelpers: InternalPromptForCheckoutAndSave took 288 ms (total: 14.7 sec)
+[2024.05.09-11.58.53:314][638]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.09-11.58.53:314][638]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB/MainMenu_WB.MainMenu_WB
+[2024.05.09-11.58.53:315][638]LogContentValidation: Display: Validating /Script/Engine.World /Game/UI/MainMenu_L.MainMenu_L
+[2024.05.09-11.58.53:315][638]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB/InGameP_WB.InGameP_WB
+[2024.05.09-11.58.53:315][638]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB/InGame_WB.InGame_WB
+[2024.05.09-11.58.53:315][638]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB/Options_WB1.Options_WB1
+[2024.05.09-11.58.53:316][638]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB/End_WB.End_WB
+[2024.05.09-11.59.38:300][232]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-11.59.38:300][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-11.59.38:309][232]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-11.59.38:309][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-11.59.38:349][232]LogViewport: Scene viewport resized to 2038x1290, mode Windowed.
+[2024.05.09-11.59.38:383][233]LogViewport: Scene viewport resized to 2038x1281, mode Windowed.
+[2024.05.09-11.59.38:514][234]LogViewport: Scene viewport resized to 2038x1262, mode Windowed.
+[2024.05.09-12.01.18:956][213]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WB/PauseMenu_WB.PauseMenu_WB
+[2024.05.09-12.01.18:957][213]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.09-12.01.18:957][213]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.09-12.01.18:965][213]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.09-12.01.18:965][213]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.09-12.01.38:885][160]BlueprintLog: New page: Compile PauseMenu_WB
+[2024.05.09-12.01.38:928][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.05.09-12.02.17:416][401]LogSlate: Window 'PauseMenu_WB' being destroyed
+[2024.05.09-12.06.21:302][941]BlueprintLog: New page: Compile PauseMenu_WB
+[2024.05.09-12.06.21:385][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.05.09-12.06.29:205][826]LogEditorTransaction: Undo Move Node
+[2024.05.09-12.12.38:199][663]BlueprintLog: New page: Compile PauseMenu_WB
+[2024.05.09-12.12.38:266][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.05.09-12.13.05:524][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.05.09-12.13.05:529][626]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UI/MainMenu_L' took 0.057
+[2024.05.09-12.13.05:530][626]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WB/PauseMenu_WB] ([2] browsable assets)...
+[2024.05.09-12.13.05:533][626]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WB/PauseMenu_WB.PauseMenu_WB]
+[2024.05.09-12.13.05:533][626]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB/PauseMenu_WB]
+[2024.05.09-12.13.05:533][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB/PauseMenu_WB" FILE="D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/Autosaves/Game/UI/WB/PauseMenu_WB_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.05.09-12.13.05:559][626]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WB/PauseMenu_WB_Auto3
+[2024.05.09-12.13.05:559][626]LogSavePackage: Moving 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/PauseMenu_WB_Auto3E857BDD04A9C4209F1B56E9B98C8B785.tmp' to 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/Autosaves/Game/UI/WB/PauseMenu_WB_Auto3.uasset'
+[2024.05.09-12.13.43:015][829]BlueprintLog: New page: Compile PauseMenu_WB
+[2024.05.09-12.13.43:072][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.05.09-12.16.59:075][571]LogViewport: Scene viewport resized to 1014x582, mode Windowed.
+[2024.05.09-12.16.59:491][571]LogViewport: Scene viewport resized to 1266x1256, mode Windowed.
+[2024.05.09-12.17.01:991][862]LogViewport: Scene viewport resized to 2038x1262, mode Windowed.
+[2024.05.09-12.17.03:960][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.05.09-12.17.05:233][ 80]LogSlate: Window 'Save Content' being destroyed
+[2024.05.09-12.17.05:280][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.09-12.17.05:413][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.05.09-12.17.05:419][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB/PauseMenu_WB" FILE="D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Content/UI/WB/PauseMenu_WB.uasset" SILENT=true
+[2024.05.09-12.17.05:444][ 80]LogSavePackage: Moving output files for package: /Game/UI/WB/PauseMenu_WB
+[2024.05.09-12.17.05:445][ 80]LogSavePackage: Moving 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/PauseMenu_WB50D47F9245AE719A3CB7FD9521A69F8B.tmp' to 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Content/UI/WB/PauseMenu_WB.uasset'
+[2024.05.09-12.17.05:452][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 14.9 sec)
+[2024.05.09-12.17.05:464][ 80]AssetCheck: New page: Asset Save: PauseMenu_WB
+[2024.05.09-12.17.05:464][ 80]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB/PauseMenu_WB.PauseMenu_WB
+[2024.05.09-12.17.06:796][223]LogViewport: Scene viewport resized to 1014x582, mode Windowed.
+[2024.05.09-12.17.07:180][223]LogViewport: Scene viewport resized to 1266x1256, mode Windowed.
+[2024.05.09-12.22.44:410][106]LogViewport: Scene viewport resized to 2038x1262, mode Windowed.
+[2024.05.09-12.23.21:767][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.05.09-12.23.21:769][  9]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UI/MainMenu_L' took 0.055
+[2024.05.09-12.25.57:438][929]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-12.25.57:438][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-12.25.57:450][929]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-12.25.57:450][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-12.25.57:482][929]LogViewport: Scene viewport resized to 2038x1281, mode Windowed.
+[2024.05.09-12.25.57:516][930]LogViewport: Scene viewport resized to 2038x1274, mode Windowed.
+[2024.05.09-12.25.57:643][931]LogViewport: Scene viewport resized to 2038x1262, mode Windowed.
+[2024.05.09-12.26.00:838][286]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-12.26.00:838][286]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-12.26.00:848][286]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-12.26.00:848][286]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-12.26.00:901][286]LogViewport: Scene viewport resized to 2038x1274, mode Windowed.
+[2024.05.09-12.26.00:915][287]LogViewport: Scene viewport resized to 2038x1264, mode Windowed.
+[2024.05.09-12.26.01:088][288]LogViewport: Scene viewport resized to 2038x1262, mode Windowed.
+[2024.05.09-12.26.24:705][ 84]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WB/Options_WB1.Options_WB1
+[2024.05.09-12.26.24:705][ 84]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.09-12.26.24:705][ 84]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.09-12.26.24:712][ 84]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.09-12.26.24:712][ 84]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.09-12.35.33:032][360]BlueprintLog: New page: Compile Options_WB1
+[2024.05.09-12.35.33:112][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.05.09-12.35.59:344][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.05.09-12.35.59:350][296]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UI/MainMenu_L' took 0.057
+[2024.05.09-12.36.17:882][404]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-12.36.17:882][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-12.36.17:892][404]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-12.36.17:892][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-12.36.17:928][404]LogViewport: Scene viewport resized to 2038x1288, mode Windowed.
+[2024.05.09-12.36.17:947][405]LogViewport: Scene viewport resized to 2038x1278, mode Windowed.
+[2024.05.09-12.36.18:094][406]LogViewport: Scene viewport resized to 2038x1262, mode Windowed.
+[2024.05.09-12.36.24:516][133]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WB/Credits_WB.Credits_WB
+[2024.05.09-12.36.24:516][133]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.09-12.36.24:516][133]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.09-12.36.24:524][133]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.09-12.36.24:524][133]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.09-12.36.26:837][364]LogSlate: Window 'Credits_WB' being destroyed
+[2024.05.09-12.41.04:342][624]Cmd: TRANSACTION UNDO
+[2024.05.09-12.41.04:342][624]LogEditorTransaction: Undo Delete Animation
+[2024.05.09-12.46.41:594][162]BlueprintLog: New page: Compile Credits_WB
+[2024.05.09-12.46.41:706][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2024.05.09-12.47.39:711][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.05.09-12.47.39:715][357]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UI/MainMenu_L' took 0.067
+[2024.05.09-12.49.52:934][106]LogViewport: Scene viewport resized to 1014x582, mode Windowed.
+[2024.05.09-12.49.55:117][214]LogViewport: Scene viewport resized to 2038x1262, mode Windowed.
+[2024.05.09-12.49.57:517][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.05.09-12.49.58:612][485]LogSlate: Window 'Save Content' being destroyed
+[2024.05.09-12.49.58:654][485]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.09-12.49.58:776][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.05.09-12.49.58:783][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB/Credits_WB" FILE="D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Content/UI/WB/Credits_WB.uasset" SILENT=true
+[2024.05.09-12.49.58:806][485]LogSavePackage: Moving output files for package: /Game/UI/WB/Credits_WB
+[2024.05.09-12.49.58:807][485]LogSavePackage: Moving 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/Credits_WB20F909BC4784A2E4428534A018843F35.tmp' to 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Content/UI/WB/Credits_WB.uasset'
+[2024.05.09-12.49.58:812][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB/Options_WB1" FILE="D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Content/UI/WB/Options_WB1.uasset" SILENT=true
+[2024.05.09-12.49.58:838][485]LogSavePackage: Moving output files for package: /Game/UI/WB/Options_WB1
+[2024.05.09-12.49.58:840][485]LogSavePackage: Moving 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/Options_WB11621696F44A5AE33930441AD8ECBC0F9.tmp' to 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Content/UI/WB/Options_WB1.uasset'
+[2024.05.09-12.49.58:850][485]LogFileHelpers: InternalPromptForCheckoutAndSave took 196 ms (total: 15.1 sec)
+[2024.05.09-12.49.58:857][485]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.09-12.49.58:858][485]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB/Options_WB1.Options_WB1
+[2024.05.09-12.49.58:858][485]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB/Credits_WB.Credits_WB
+[2024.05.09-12.50.00:937][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.05.09-12.50.02:269][723]LogSlate: Window 'Save Content' being destroyed
+[2024.05.09-12.50.02:313][723]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.09-12.50.02:445][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.05.09-12.50.02:453][723]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 15.2 sec)
+[2024.05.09-12.50.05:052][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.09-12.50.05:098][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_L" FILE="D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Content/UI/MainMenu_L.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.09-12.50.05:132][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.05.09-12.50.05:139][ 25]LogSavePackage: Moving output files for package: /Game/UI/MainMenu_L
+[2024.05.09-12.50.05:140][ 25]LogSavePackage: Moving 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Saved/MainMenu_LECCDD9224442E00EBF449B95FD6321E5.tmp' to 'D:/2201894/dreamscapeGame/dreamscapeGame/Dreamscape/Content/UI/MainMenu_L.umap'
+[2024.05.09-12.50.05:148][ 25]LogFileHelpers: Saving map 'MainMenu_L' took 0.050
+[2024.05.09-12.50.05:153][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 15.3 sec)
+[2024.05.09-12.50.05:160][ 25]AssetCheck: New page: Asset Save: MainMenu_L
+[2024.05.09-12.50.05:160][ 25]LogContentValidation: Display: Validating /Script/Engine.World /Game/UI/MainMenu_L.MainMenu_L
+[2024.05.09-12.50.08:997][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.05.09-12.50.19:363][466]LogSlate: Window 'Save Content' being destroyed
+[2024.05.09-12.50.19:374][466]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.09-12.50.19:514][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.05.09-12.50.19:522][466]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 15.5 sec)
+[2024.05.09-12.50.28:750][526]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-12.50.28:750][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-12.50.28:759][526]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-12.50.28:759][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-12.50.28:827][526]LogViewport: Scene viewport resized to 2038x1278, mode Windowed.
+[2024.05.09-12.50.28:844][527]LogViewport: Scene viewport resized to 2038x1267, mode Windowed.
+[2024.05.09-12.50.28:971][528]LogViewport: Scene viewport resized to 2038x1262, mode Windowed.
+[2024.05.09-12.50.34:835][190]LogViewport: Scene viewport resized to 1014x582, mode Windowed.
+[2024.05.09-12.50.35:068][190]LogViewport: Scene viewport resized to 1391x1256, mode Windowed.
